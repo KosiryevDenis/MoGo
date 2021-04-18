@@ -878,7 +878,7 @@ hr {
 .footer__social-header b {
 	font-size: 18px;
 }
-/* .footer_social-content {
+.footer_social-content {
 	padding-top: 15px;
 	font-size: 15px;
 	color: #999;
@@ -891,7 +891,7 @@ hr {
 	margin-left: 10px;
 	font-size: 18px;
 	color: #95e1d3;
-} */
+}
 .footer__title {
 	text-transform: uppercase;
 	font-size: 14px;
